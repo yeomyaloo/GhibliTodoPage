@@ -82,7 +82,15 @@ body{
     text-align: center;
     color: #FFF;
 }
-
+#middle_section #login-form input{
+    width: 400px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, .8);
+    line-height: 40px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
 
 /* 끝 부분 */
 #end_section{
